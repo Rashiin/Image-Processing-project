@@ -56,18 +56,5 @@ Shows the histogram for the grayscale image.
 3. ROI Selection
 A pop-up window displays the selected region of interest.
 
-File Structure
-plaintext
-Copy code
-│── image_processing_toolkit.py  # Main application script
-├── README.md                    # Project documentation
-└── screenshots/                  # (Optional) Store screenshots for demonstration
-Future Improvements
-Support for more image filters (e.g., blur, sharpen).
-Ability to save processed images.
-Add custom color mapping options.
-Contributing
-Pull requests are welcome. For major changes, please open an issue to discuss what you would like to change.
-
 
 
